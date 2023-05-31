@@ -1,12 +1,12 @@
 {
-    "version": "0.0.15",
+    "version": "0.0.16",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/warpdl/warp-releases/releases/download/0.0.15/warp_0.0.15_windows_amd64.zip",
+            "url": "https://github.com/warpdl/warp-releases/releases/download/0.0.16/warp_0.0.16_windows_amd64.zip",
             "bin": [
                 "warpdl.exe"
             ],
-            "hash": "cfdcdb9bf96f85a7c454c0200c207b367e70bc3e54c31b16ec7987f8583a5413"
+            "hash": "ae329ee243a8c542f606f2c541aabd5f27f6de5894ca77bc918070f2e8a1de0b"
         }
     },
     "homepage": "https://warpdl.org",

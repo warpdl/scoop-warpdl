@@ -1,0 +1,14 @@
+{
+    "version": "0.0.1-next",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/warpdl/warp/releases/download/v0.0.0/warp_0.0.1-next_windows_amd64.zip",
+            "bin": [
+                "warpdl.exe"
+            ],
+            "hash": "03ba4d3ea5f6f015bc3e6d7f69e2c4b339b8079fe6d63b9efd5a0b047d343a5d"
+        }
+    },
+    "homepage": "https://warpdl.org",
+    "description": "The official Warp CLI download manager"
+}
